@@ -1,7 +1,8 @@
 # kahlys/tcpproxy
 
-[![build](https://api.travis-ci.org/kahlys/tcpproxy.svg?branch=master)](https://travis-ci.org/kahlys/tcpproxy)
 [![godoc](https://godoc.org/github.com/kahlys/tcpproxy?status.svg)](https://godoc.org/github.com/kahlys/tcpproxy) 
+[![build](https://api.travis-ci.org/kahlys/tcpproxy.svg?branch=master)](https://travis-ci.org/kahlys/tcpproxy)
+[![go report](https://goreportcard.com/badge/github.com/kahlys/tcpproxy)](https://goreportcard.com/report/github.com/kahlys/tcpproxy)
 
 Simple tcp proxy package and executable binary in Golang. The executable provides both TCP and TCP/TLS connection.
 
